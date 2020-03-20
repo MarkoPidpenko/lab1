@@ -1,6 +1,6 @@
 Dependencies for Project 'lab1', Target 'Target 1': (DO NOT MODIFY !)
 CompilerVersion: 5060750::V5.06 update 6 (build 750)::ARMCC
-F (.\main.c)(0x5E74B1A0)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\STM32F4xx_StdPeriph_Driver\inc -I .\STM32F4xx_StdPeriph_Driver\src -I .\cmsis\inc -I .\cmsis\src -I .\Include-I.\RTE\_Target_1-IC:\Users\Lenovo\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="529" -DSTM32F407xx -DUSE_STDPERIPH_DRIVER-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+F (.\main.c)(0x5E74B7B7)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\STM32F4xx_StdPeriph_Driver\inc -I .\STM32F4xx_StdPeriph_Driver\src -I .\cmsis\inc -I .\cmsis\src -I .\Include-I.\RTE\_Target_1-IC:\Users\Lenovo\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="529" -DSTM32F407xx -DUSE_STDPERIPH_DRIVER-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
 I (.\cmsis\inc\stm32f4xx.h)(0x5E428B50)
 I (.\Include\core_cm4.h)(0x581CC64D)
 I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9B2678)
